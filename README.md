@@ -1,5 +1,4 @@
-# HR-Analytical-Dashboard
-# HR Analytics Dashboard
+HR Analytics Dashboard
 
 Overview
 A Power BI dashboard designed to analyze workforce performance, employee demographics and attrition.
